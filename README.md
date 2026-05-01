@@ -1,1 +1,0 @@
-# AI-Text-Detector
