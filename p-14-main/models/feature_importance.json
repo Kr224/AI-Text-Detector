@@ -1,0 +1,42 @@
+[
+  {
+    "feature": "Readability Score",
+    "importance": 0.2913293716634783,
+    "rank": 1
+  },
+  {
+    "feature": "Avg Word Length",
+    "importance": 0.27341297776840995,
+    "rank": 2
+  },
+  {
+    "feature": "Punctuation Density",
+    "importance": 0.24319830723638927,
+    "rank": 3
+  },
+  {
+    "feature": "AI Word Ratio",
+    "importance": 0.08643496968483591,
+    "rank": 4
+  },
+  {
+    "feature": "Sentence Variation",
+    "importance": 0.06701704177313322,
+    "rank": 5
+  },
+  {
+    "feature": "Conjunction Ratio",
+    "importance": 0.023483802291044614,
+    "rank": 6
+  },
+  {
+    "feature": "Unique Word Ratio",
+    "importance": 0.01512352958270873,
+    "rank": 7
+  },
+  {
+    "feature": "Paragraph Variation",
+    "importance": 0.0,
+    "rank": 8
+  }
+]

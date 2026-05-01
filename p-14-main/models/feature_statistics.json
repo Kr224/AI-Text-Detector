@@ -1,0 +1,100 @@
+[
+  {
+    "feature": "Unique Word Ratio",
+    "human_mean": 0.49353942102866044,
+    "ai_mean": 0.477407838819281,
+    "difference": -0.016131582209379436,
+    "pct_difference": -3.268549891264442
+  },
+  {
+    "feature": "AI Word Ratio",
+    "human_mean": 0.0008783954640528712,
+    "ai_mean": 0.00401885176242113,
+    "difference": 0.0031404562983682587,
+    "pct_difference": 357.5219165953289
+  },
+  {
+    "feature": "Sentence Variation",
+    "human_mean": 0.4707846790672869,
+    "ai_mean": 0.32912238836325486,
+    "difference": -0.14166229070403202,
+    "pct_difference": -30.09067563215772
+  },
+  {
+    "feature": "Avg Word Length",
+    "human_mean": 4.387255729292351,
+    "ai_mean": 4.933455794468302,
+    "difference": 0.5462000651759515,
+    "pct_difference": 12.449697461881296
+  },
+  {
+    "feature": "Punctuation Density",
+    "human_mean": 0.016829065021400486,
+    "ai_mean": 0.02050834001894208,
+    "difference": 0.003679274997541594,
+    "pct_difference": 21.862622747389036
+  },
+  {
+    "feature": "Conjunction Ratio",
+    "human_mean": 0.04092732805662777,
+    "ai_mean": 0.043043520435748224,
+    "difference": 0.002116192379120453,
+    "pct_difference": 5.170609662552248
+  },
+  {
+    "feature": "Paragraph Variation",
+    "human_mean": 7.7830161203820865,
+    "ai_mean": 7.022406563362507,
+    "difference": -0.7606095570195794,
+    "pct_difference": -9.772683818907975
+  },
+  {
+    "feature": "Burstiness",
+    "human_mean": 0.16031938828646067,
+    "ai_mean": 0.238956314796352,
+    "difference": 0.07863692650989132,
+    "pct_difference": 49.050166265219204
+  },
+  {
+    "feature": "Transition Density",
+    "human_mean": 0.47809644584073907,
+    "ai_mean": 0.3659450077499098,
+    "difference": -0.11215143809082928,
+    "pct_difference": -23.45791086014234
+  },
+  {
+    "feature": "Avg Clause Length",
+    "human_mean": 0.0006424281649696839,
+    "ai_mean": 0.0023631184474244863,
+    "difference": 0.0017206902824548026,
+    "pct_difference": 267.8416632832407
+  },
+  {
+    "feature": "Lexical Diversity",
+    "human_mean": 18.84241578272169,
+    "ai_mean": 15.345300946491049,
+    "difference": -3.497114836230642,
+    "pct_difference": -18.55980080557113
+  },
+  {
+    "feature": "Pronoun Ratio",
+    "human_mean": 0.49353942102866044,
+    "ai_mean": 0.477407838819281,
+    "difference": -0.016131582209379436,
+    "pct_difference": -3.268549891264442
+  },
+  {
+    "feature": "Contraction Ratio",
+    "human_mean": 0.03928455679571135,
+    "ai_mean": 0.022315214081329988,
+    "difference": -0.01696934271438136,
+    "pct_difference": -43.19596324485933
+  },
+  {
+    "feature": "Passive Voice Ratio",
+    "human_mean": 0.012028136600094622,
+    "ai_mean": 0.011220596636346322,
+    "difference": -0.0008075399637482994,
+    "pct_difference": -6.713757837950948
+  }
+]

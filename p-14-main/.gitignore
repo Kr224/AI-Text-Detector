@@ -1,0 +1,44 @@
+# ---------------------------------
+# Python bytecode and cache
+# ---------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---------------------------------
+# Virtual environments
+# ---------------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# ---------------------------------
+# IDE / editor configs
+# ---------------------------------
+.idea/
+.vscode/
+*.iml
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# ---------------------------------
+# Data files (raw / large / external)
+# ---------------------------------
+
+
+# ---------------------------------
+# Models and training artifacts
+# ---------------------------------
+models/*.pkl
+models/*.joblib
+models/*_results.json
+models/*_metadata.json
+
+# ---------------------------------
+# Generated results / plots / logs
+# ---------------------------------
+results/
+logs/
